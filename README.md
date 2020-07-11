@@ -1,4 +1,5 @@
 # hello-word
 Inicio dos teste 
-Sou analista de projetos, e estou em uma fase de criação.
+Sou analista, e estou em uma fase de criação.
+
 
