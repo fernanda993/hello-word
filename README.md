@@ -5,10 +5,11 @@ Sou analista, e estou em uma fase de criação.
 import schedule
 import time
 
-def FazerTarefaImportante():
+# Definir tarefa impoprtante
+def TarefaImportante():
     print('Gerando grana...')
 # schedule.cada.tempo.fazer
-schedule.every(10).seconds.do(FazerTarefaImportante())
+schedule.every(10).seconds.do(TarefaImportante)
 
 while time:
     schedule.run_pending()
